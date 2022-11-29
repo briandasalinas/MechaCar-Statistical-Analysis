@@ -1,6 +1,7 @@
 # MechaCar-Statistical-Analysis
 
 ## Purpose
+Analyze the data using R for insights that may help the manufacturing team solve production troubles that are blocking the team's progress.
 
 ## Results
 ### Linear Regression to Predict MPG
